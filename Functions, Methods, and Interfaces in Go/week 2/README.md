@@ -1,4 +1,3 @@
-
 ## Peer-graded Assignment: Module 2 Activity
 
 Let us assume the following formula for
