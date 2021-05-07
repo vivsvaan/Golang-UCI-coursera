@@ -3,6 +3,6 @@ My assignments for [Programming with Google Go Specialization](https://www.cours
 
 There are 3 courses in this specialization
 
-- [Getting Started with Go](google.com)
-- [Functions Methods, and Interfaces](google.com)
-- [Concurrency in Go](google.com)
+- [Getting Started with Go](Getting Started with Go)
+- [Functions, Methods, and Interfaces](Functions, Methods and Interfaces)
+- [Concurrency in Go](Concurrency in Go)
