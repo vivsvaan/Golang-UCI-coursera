@@ -1,6 +1,8 @@
 # Programming with Google Go Specialization
-Programming with Google Go Specialization (3 course-sequence)
+My assignments for [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
 
-### [Getting Started with Go](Getting Started with Go/)
+There are 3 courses in this specialization
 
-All the assignments while doing all 3 courses of Golang
+- [Getting Started with Go](google.com)
+- [Functions Methods, and Interfaces](google.com)
+- [Concurrency in Go](google.com)
